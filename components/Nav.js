@@ -26,7 +26,7 @@ export default function Nav() {
     }
   };
   return (
-    <div className="px-10 md:px-20 lg:px-28 dark:bg-gray-800 dark:text-gray-100 bg-gray-50 text-gray-700">
+    <div className="px-10 md:px-20 lg:px-28 dark:bg-[#161616] dark:text-gray-100 bg-gray-50 text-gray-700">
       <Head>
         <title>Mohammed Abu Hanifa</title>
       </Head>

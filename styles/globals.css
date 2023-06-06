@@ -4,4 +4,11 @@
 
 * {
   font-family: "Outfit", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.grad {
+  background: linear-gradient(90deg, #202020 0%, #131313 100%);
 }
