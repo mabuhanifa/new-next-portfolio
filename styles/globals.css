@@ -10,5 +10,10 @@
 }
 
 .grad {
-  background: linear-gradient(90deg, #202020 0%, #131313 100%);
+  background: linear-gradient(
+    90deg,
+    rgba(24, 24, 24, 1) 0%,
+    rgba(28, 28, 28, 1) 100%
+  );
+  border: 1px dashed rgba(28, 28, 28, 1);
 }
